@@ -27,6 +27,8 @@ node {
 		}
 	}
 	
+	stage3 
+	
 	
 	//Stage 3: Test Code with Maven/DB
 	stage('Test with Maven/PSQL') {
